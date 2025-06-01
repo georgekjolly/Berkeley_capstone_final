@@ -2,6 +2,8 @@
 
 ## 📌 Final Report
 
+Notebook : https://github.com/georgekjolly/Berkeley_capstone_final/blob/main/capstone-phase-1_v2.ipynb
+
 ---
 
 ### 1. Problem Statement
