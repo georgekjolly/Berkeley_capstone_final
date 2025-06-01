@@ -62,7 +62,6 @@ We used a comprehensive and realistic **credit card transaction dataset** from K
 We evaluated the following models using `RandomizedSearchCV` for hyperparameter tuning:
 
 - **Logistic Regression**: Serves as a simple, explainable baseline.
-- **Random Forest**: Ensemble method leveraging bagging.
 - **Support Vector Classifier (SVC)**: Handles complex boundaries.
 - **XGBoost**: Gradient boosting method optimized for performance and imbalance.
 
